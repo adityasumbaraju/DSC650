@@ -1,0 +1,5 @@
+format,uncompressed,gzip,snappy
+JSON Schema,3461 bytes,3327145 bytes,
+Avro,19646227 bytes,,
+Parquet,2327907 bytes,,
+Protocol buffers,22270594 bytes,,3705406 bytes
